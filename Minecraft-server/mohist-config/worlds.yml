@@ -1,0 +1,45 @@
+worlds:
+  world:
+    worldborder: 5.9999968E7
+    seed: 2970360198753898534
+    environment: NORMAL
+    name: world
+    info: -/-
+    difficulty: HARD
+    mohist: false
+  DIM-1:
+    worldborder: 5.9999968E7
+  DIM1:
+    worldborder: 5.9999968E7
+  void:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: voidscape
+  twilight_forest:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: twilightforest
+  sixth_layer:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: infinite_abyss
+  fifth_layer:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: infinite_abyss
+  fourth_layer:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: infinite_abyss
+  seventh_layer:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: infinite_abyss
+  first_layer:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: infinite_abyss
+  second_layer:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: infinite_abyss

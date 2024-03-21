@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1710991145159
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1710988591634
+  login: 1710989230108
+money: '0'
+last-account-name: AgustinLPV
+lastlocation:
+  world: a2524c76-8fcb-4ad7-8c96-81b690fd8973
+  world-name: world
+  x: 595.3612971076859
+  y: -16.0
+  z: 668.0157691351849
+  yaw: 96.178466796875
+  pitch: -4.499574661254883
+logoutlocation:
+  world: a2524c76-8fcb-4ad7-8c96-81b690fd8973
+  world-name: world
+  x: -605.7831079487794
+  y: 120.0
+  z: 2913.6268283734776
+  yaw: -133.5629425048828
+  pitch: -16.20050048828125
+homes:
+  home:
+    world: a2524c76-8fcb-4ad7-8c96-81b690fd8973
+    world-name: world
+    x: -604.6076485626672
+    y: 120.0
+    z: 2911.8550237127706
+    yaw: -19.712890625
+    pitch: 15.899513244628906
